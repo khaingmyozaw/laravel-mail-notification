@@ -59,6 +59,26 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 ## Security Vulnerabilities
 
+
+
+# Laravel Mail Notification Project
+
+# Commands
+  replace with the real name on NewNotification
+```
+php artisan make:notification NewNotification
+```
+# For Test
+Use 'https://mailtrap.io' to test.
+
+# Notice
+you shouldn't forget to adjust setting in .env file.
+
+
+## 🚀 About Me
+I'm a junior web developer.....
+
+
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
 ## License
