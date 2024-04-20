@@ -73,6 +73,11 @@ Use 'https://mailtrap.io' to test.
 
 # Notice
 you shouldn't forget to adjust setting in .env file.
+And to download vendor and other needed files in project terminal with this commands
+
+```
+composer install
+```
 
 
 ## 🚀 About Me
