@@ -83,5 +83,5 @@ composer install
 ## 🚀 About Me
 I'm a junior web developer.....
 
-Khaing Myo Zaw
+Khaing Myo Zaw.
 kmyozaw.dev@gmail.com
